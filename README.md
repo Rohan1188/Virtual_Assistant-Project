@@ -1,7 +1,5 @@
 # LinkLearn - Virtual Assistant Project
 
-![LinkLearn Logo](logo.jpg)
-
 ## Overview
 
 **LinkLearn** is an AI-powered virtual assistant designed to assist users with various tasks through voice commands. Built with a user-friendly interface and integrated with speech synthesis and speech recognition APIs, this project enables users to interact with the assistant in a conversational manner. Whether it's opening websites, checking the time or date, or responding to user queries, LinkLearn makes digital interaction seamless.
